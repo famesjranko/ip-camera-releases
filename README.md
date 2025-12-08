@@ -33,10 +33,6 @@ Download the latest APK from the [Releases](https://github.com/famesjranko/ip-ca
 2. Navigate to the URL shown (e.g., `https://192.168.1.100:8443`)
 3. Control via web dashboard or Android app
 
-## Changelog
-
-See [CHANGELOG.md](CHANGELOG.md) for detailed release notes.
-
 ## Support
 
 Open an issue for bugs or feature requests.
