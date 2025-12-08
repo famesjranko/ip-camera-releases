@@ -29,7 +29,7 @@ Download the latest APK from the [Releases](https://github.com/famesjranko/ip-ca
 
 ## Quick Start
 
-1. Open the app - streaming starts automatically
+1. Open the app and tap **Start Streaming**
 2. Navigate to the URL shown (e.g., `https://192.168.1.100:8443`)
 3. Control via web dashboard or Android app
 
