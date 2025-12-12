@@ -4,7 +4,7 @@ An Android app that turns a phone into a network IP camera with H.264/MJPEG stre
 
 Designed to work on older devices (Android 7.0+) so you can repurpose that old phone instead of throwing it away.
 
-<p align="center">
+<p align="left">
   <img src="images/app-main-page-1.png" alt="App Streaming" width="250"/>
   <img src="images/app-settings-page-1.png" alt="App Settings" width="250"/>
 </p>
