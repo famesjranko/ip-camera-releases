@@ -46,6 +46,8 @@ Everything stays on your local network - no data leaves your home, no accounts t
 - HTTPS with auto-generated certificates
 - Optional password protection
 
+> **Security note:** Only use this app on trusted networks (your home WiFi). On public WiFi (coffee shops, airports, etc.), other users on the same network may be able to access your camera stream. Always enable password protection if using on any shared network.
+
 ## Web Dashboard
 
 Access the camera from any browser on your network. The dashboard provides full control without needing the app open.
