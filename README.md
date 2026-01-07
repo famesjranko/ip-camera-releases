@@ -20,7 +20,7 @@ Everything stays on your local network - no data leaves your home, no accounts t
 **Video Streaming**
 - H.264 hardware encoding with MJPEG fallback
 - Configurable resolution, frame rate, and quality
-- Multi-camera support (front, back, wide, telephoto, macro)
+- Multi-camera support
 - Torch/flashlight control
 
 **Snapshots**
